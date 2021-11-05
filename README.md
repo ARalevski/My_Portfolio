@@ -1,4 +1,4 @@
-# Alexandra Ralevski's Portfolio
+                    # Alexandra Ralevski's Portfolio
 
 ## [Project 1: Utilizing Weak Supervision to Expand Training Data (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
 - Utilized the [Snorkel machine learning model](https://snorkel.ai/) to label biomimicry papers.
