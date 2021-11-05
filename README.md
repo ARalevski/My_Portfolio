@@ -19,8 +19,11 @@
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
 - XXX
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
+- dd
+-
 
-[Link](url) and ![Image](src)
+
+[Link](url) and ![Image](https://user-images.githubusercontent.com/68359251/140568193-f845f3dc-aec8-42af-a295-39e5f3c2b43c.png)
 
 
 ### Contact
