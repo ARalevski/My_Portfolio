@@ -1,5 +1,5 @@
 <p align="center">
-  <b># Alexandra Ralevski's Portfolio
+  # Alexandra Ralevski's Portfolio
 </p>
 
 
