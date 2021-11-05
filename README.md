@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Alexandra Ralevski's Portfolio
 
 You can use the [editor on GitHub](https://github.com/ARalevski/My_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## [Project 1: Utilizing Weak Supervision to Expand Training Data (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
+- Utilized the [Snorkel machine learning model](https://snorkel.ai/) to label biomimicry papers.
+- Snorkel uses weak supervision to label large amounts of training data using programmatic labeling functions based on keyword 'rules'.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
+- Utilized SciBERT to determine to mine the scientific literature and determine whether a paper was biomimetic.
+- 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
+- XXX
+- Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
+For questions contact Alexandra Ralevski (alexandra.ralevski@gmail.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARalevski/My_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
