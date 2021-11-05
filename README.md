@@ -1,12 +1,15 @@
-<p align="center">
-  # Alexandra Ralevski's Portfolio
-</p>
+# Alexandra Ralevski's Portfolio
+
 
 
 
 ## [Project 1: Utilizing Weak Supervision to Expand Training Data (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
 - Utilized the [Snorkel machine learning model](https://snorkel.ai/) to label biomimicry papers.
 - Snorkel uses weak supervision to label large amounts of training data using programmatic labeling functions based on keyword 'rules'.
+
+<p align="center">
+  # Alexandra Ralevski's Portfolio
+</p>
 
 ## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
 - Utilized SciBERT to determine to mine the scientific literature and determine whether a paper was biomimetic.
