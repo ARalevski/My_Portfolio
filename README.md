@@ -1,8 +1,4 @@
-## Alexandra Ralevski's Portfolio
-
-You can use the [editor on GitHub](https://github.com/ARalevski/My_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Alexandra Ralevski's Portfolio
 
 ## [Project 1: Utilizing Weak Supervision to Expand Training Data (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
 - Utilized the [Snorkel machine learning model](https://snorkel.ai/) to label biomimicry papers.
