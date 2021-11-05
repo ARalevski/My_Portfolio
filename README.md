@@ -13,19 +13,14 @@
 
 
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
-- XXX
+- Machine learning model that predicts which employees are most likely to leave a company.
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
-- dd
--
+- Model achieved 91% accuracy with minimal tuning.
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/68359251/140568193-f845f3dc-aec8-42af-a295-39e5f3c2b43c.png">
   <img width="500" src="https://user-images.githubusercontent.com/68359251/140568255-abe08844-eced-4995-adaa-d2c73c4c3239.png">
 </p>
-
-
-![Image]()
-
 
 ### Contact
 For questions contact Alexandra Ralevski (alexandra.ralevski@gmail.com)
