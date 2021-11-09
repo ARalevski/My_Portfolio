@@ -10,7 +10,7 @@
 - We successfully trained a classifier that could predict what label a certain biomimicry paper should receive with 95% accuracy.
 
 <p align="center">
-  <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/snorkel_illustration_final_white.png"
+  <img width="800" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/snorkel_illustration_final_white.png"
 </p>
   
 ## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
