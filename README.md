@@ -14,8 +14,8 @@
 </p>
   
 ## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
-- Utilized SciBERT to determine to mine the scientific literature and determine whether a paper was biomimetic.
-- 
+- Utilized SciBERT to determine to mine the scientific literature and determine whether a paper was biomimetic (Y/N).
+- Model achieved a 0.98 AUC score and 91% accuracy rate with minimal tuning.
 
 
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
