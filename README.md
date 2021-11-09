@@ -11,6 +11,8 @@
 
 <p align="center">
   <img width="1000" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/snorkel_illustration_final_white_blackborder.png"
+  <figcaption> An overview of the Snorkel system. (1) Subject matter experts (SME) users write labeling functions (LFs) that express weak supervision sources like distant supervision, patterns, and heuristics. (2) Snorkel applies the LFs over unlabeled data and learns a generative model to combine the LFs' outputs into probabilistic labels. (3) Snorkel uses these labels to train a discriminative classification model, such as a deep neural network. Adapted from Ratner et. al (2017). </a>
+  </figcaption>
 </p>
   
 ## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
