@@ -19,7 +19,7 @@
 
 
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
-- Machine learning model that predicts which employees are most likely to leave a company.
+- Generated a machine learning model that predicts which employees are most likely to leave a company.
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 - The model achieved a 0.98 AUC score and 91% accuracy rate with minimal tuning.
 
