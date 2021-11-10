@@ -27,8 +27,7 @@
 
 <p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png">
-  figcaption> Confusion Matrix of the winning Random Forest model. </a>
-  </figcaption>
+  <figcaption> Caption for Picture 1</figcaption>
 </p>
 
 <p align="center">
