@@ -25,6 +25,8 @@
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 - The winning Random Forest model achieved a 0.99 AUC score and 91% accuracy rate with minimal tuning.
 
+![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png "title-1") ![alt-text-2](image2.png "title-2")
+
 <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" alt="Alert dialog" class="screenshot">
   <figcaption><b>Figure 1</b>: Random Forest Model Confusion Matrix</figcaption> width="425"/> <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" width="425"/>
 
