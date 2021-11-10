@@ -25,12 +25,29 @@
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 - The winning Random Forest model achieved a 0.99 AUC score and 91% accuracy rate with minimal tuning.
 
-<p align="center">
+<div class="half">
+  <div> 
+    <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" alt="">
+    <p>caption 1</p>
+  </div>
+  <div> 
+    <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" alt="">
+    <p>caption 2</p>
+  </div>
+</div>
+
+div {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
+
+<!-- <p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png">
   <figcaption> Caption for Picture 1</figcaption>
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png">
   <figcaption> Caption for Picture 2</figcaption>
-</p>
+</p> -->
 
 ### Contact
 For questions contact Alexandra Ralevski (alexandra.ralevski@gmail.com)
