@@ -25,9 +25,9 @@
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 - The winning Random Forest model achieved a 0.99 AUC score and 91% accuracy rate with minimal tuning.
 
-Solarized dark             |  Solarized Ocean
+<!-- Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png", width="425")  |  ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png)
+![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png", width="425")  |  ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png) -->
 
 
 <p align="center">
