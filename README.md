@@ -3,7 +3,7 @@
 
 
 
-## [Project 1: Utilizing Weak Supervision with Snorkel to Build a Training Set (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
+## [Project 1: Generating Training Data Using Weak Supervision with Snorkel (NASA)](https://github.com/ARalevski/nasa_petal_snorkel)
 - Utilized the [Snorkel system](https://snorkel.ai/) to build a training set of labeled biomimicry papers. 
 - Labeling our data by hand was prohibitively slow, so we turned to a weak supervision approach using labeling functions (LFs) in Snorkel.
 - LFs are noisy, programmatic rules and heuristics that assign labels to unlabeled training data. 
