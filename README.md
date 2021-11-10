@@ -29,7 +29,12 @@
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png">
   figcaption> Confusion Matrix of the winning Random Forest model. </a>
   </figcaption>
+</p>
+
+<p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png">
+  figcaption> ROC curve of the winning Random Forest model. </a>
+  </figcaption>
 </p>
 
 ### Contact
