@@ -32,7 +32,7 @@
   <figcaption> Caption for Picture 2</figcaption>
 </p> -->
 
-![alt-text-1]("https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" "Confusion Matrix for Random Forest Model") ![alt-text-2](image2.png "title-2")
+![alt-text-1]("https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" "Confusion Matrix for Random Forest Model") ![alt-text-2](src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" "title-2")
 
 ### Contact
 For questions contact Alexandra Ralevski (alexandra.ralevski@gmail.com)
