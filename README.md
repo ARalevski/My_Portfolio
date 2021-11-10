@@ -15,7 +15,7 @@
   </figcaption>
 </p>
   
-## [Project 2: Utilizing SciBERT for binary classification of biomimicry papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
+## [Project 2: Utilizing SciBERT for Binary Classification of Biomimicry Papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
 - Utilized SciBERT to determine whether a paper would qualify as 'biomimetic' (Y/N).
 - Model achieved a XX AUC score and XX% accuracy.
 
