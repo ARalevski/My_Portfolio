@@ -24,11 +24,13 @@
 - Generated a machine learning model that predicts which employees are most likely to leave a company.
 - Optimized Logistic Regression, Random Forest Regressors, and Boosted Trees using GridsearchCV to determine the best model.
 - The winning Random Forest model achieved a 0.99 AUC score and 91% accuracy rate with minimal tuning.
+
+<img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" width="425"/> <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" width="425"/> 
 <!-- 
 ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png "TITLE") ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png "title-2") -->
 
-<img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" alt="Alert dialog" class="screenshot">
-  <figcaption><b>Figure 1</b>: Random Forest Model Confusion Matrix</figcaption> width="425"/> <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" width="425"/>
+<!-- <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" alt="Alert dialog" class="screenshot">
+  <figcaption><b>Figure 1</b>: Random Forest Model Confusion Matrix</figcaption> width="425"/> <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" width="425"/> -->
 
 <!-- <figure>
   <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png"
