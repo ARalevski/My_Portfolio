@@ -34,9 +34,10 @@
     <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" alt="">
     <p>caption 2</p>
   </div>
+  <div> 
 </div>
 
-div {
+.half div {
   float: left;
   width: 50%;
   padding-right: 10px;
