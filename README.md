@@ -27,7 +27,7 @@
 
 <p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png">
-  <img width="500" src="https://user-images.githubusercontent.com/68359251/140568255-abe08844-eced-4995-adaa-d2c73c4c3239.png">
+  <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png">
 </p>
 
 ### Contact
