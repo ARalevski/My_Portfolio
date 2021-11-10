@@ -27,7 +27,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png)  |  ![](ttps://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png)
+![]<img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" width="425"/>  |  ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png)
 
 
 <p align="center">
