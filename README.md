@@ -37,7 +37,7 @@
 <figure>
   <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png"
        alt="Alert dialog" class="screenshot">
-  <figcaption><b>Figure 1</b>: Alert dialog</figcaption>
+  <figcaption><b>Figure 1</b>: Confusion Matrix for Random Forest Model</figcaption>
 </figure>
 
 ### Contact
