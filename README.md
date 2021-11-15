@@ -18,6 +18,12 @@
 ## [Project 2: Utilizing SciBERT for Binary Classification of Biomimicry Papers (NASA)](https://github.com/ARalevski/nasa_petal_scibert)
 - Utilized SciBERT to determine whether a paper would qualify as 'biomimetic' (Y/N).
 - Utilized training set of over 10,000 papers.
+- 
+<p align="left">
+  <img width="1000" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped.png"
+  <figcaption> The PeTaL Taxonomy. Adapted from AskNature. </a>
+  </figcaption>
+</p>
 
 
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
