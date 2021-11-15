@@ -21,8 +21,6 @@
 
 <p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png"
-  <figcaption> The PeTaL Taxonomy. Adapted from AskNature. </a>
-  </figcaption>
 </p>
 
 
