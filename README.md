@@ -19,8 +19,8 @@
 - Utilized SciBERT to determine whether a paper would qualify as 'biomimetic' (Y/N).
 - Utilized training set of over 10,000 papers.
 
-<p align="left">
-  <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped.png"
+<p align="center">
+  <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png"
   <figcaption> The PeTaL Taxonomy. Adapted from AskNature. </a>
   </figcaption>
 </p>
