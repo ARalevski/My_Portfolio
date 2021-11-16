@@ -23,7 +23,7 @@
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png"
 </p> -->
 
-![](https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png | width=500)
+![](https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png)
 *The PeTaaL taxonomy contains 100 functions, or adaptations, an organism can perform.*
 
 
