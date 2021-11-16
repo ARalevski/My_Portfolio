@@ -19,9 +19,12 @@
 - Utilized SciBERT to determine whether a paper would qualify as 'biomimetic' (Y/N).
 - Utilized training set of over 10,000 papers.
 
-<p align="center">
+<!-- <p align="center">
   <img width="500" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png"
-</p>
+</p> -->
+
+![](https://github.com/ARalevski/My_Portfolio/blob/main/images/Petal%20Taxonomy%20v2%20June%202021_clipped_new.png)
+*The PeTaaL taxonomy contains 100 functions, or adaptations, an organism can perform.*
 
 
 ## [Project 3: Employee Retention (Personal Project)](https://github.com/ARalevski/which_employees_leave)
