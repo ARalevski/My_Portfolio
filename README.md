@@ -3,8 +3,7 @@
 
 ## [Project 1: Using Large Language Models to Identify Housing Insecurity](https://github.com/Hadlock-Lab/LLM_SDoH)
 - Led a Generative AI team in collaboration with Providence Health to use Large Language Models to extract complex unstructured data from 25,217 notes from 795 pregnant patients.
-- Used Chain-of-Thought prompting and few-shot learning to extract SDoH (Social Determinants of Health) data with higher recall than human annotators (0.92) and a precision of 0.85.
-- This work demonstrates that LLMs, when compared with manual annotation, provide a scalable, cost-effective solution with the advantage of greater recall.
+- Used Chain-of-Thought prompting and few-shot learning to extract SDoH (Social Determinants of Health) data including housing insecurity with higher recall than human annotators (0.92) and a precision of 0.85.
 - More efficient methods for obtaining structured SDoH data can help accelerate inclusion of exposome variables in biomedical research, and support healthcare systems in identifying patients who could benefit from proactive outreach.
 
 <p align="center">
@@ -39,11 +38,6 @@
 <!-- Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png", width="425")  |  ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png) -->
-
-
-<p align="center">
-  <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png" width="425"/> <img src="https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png" width="374"/>
-  </p>
 <!-- 
 ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/cf%20matrix%20rf%20model.png "TITLE") ![](https://github.com/ARalevski/My_Portfolio/blob/main/images/ROC%20rf.png "title-2") -->
 
