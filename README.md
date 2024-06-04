@@ -7,7 +7,7 @@
 - More efficient methods for obtaining structured SDoH data can help accelerate inclusion of exposome variables in biomedical research, and support healthcare systems in identifying patients who could benefit from proactive outreach.
 
 <p align="center">
-  <img width="1000" src="https://github.com/ARalevski/My_Portfolio/blob/main/images/Fig1_grouped_excel_no_table.png"
+  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png"
   <figcaption> Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes. </a>
   </figcaption>
 </p>
